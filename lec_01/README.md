@@ -26,3 +26,15 @@
 - 변수와 등호, 부등호의 관계
 - 그래픽 요소 - EditText, TextView, Button
 - 그래픽 요소(XML파일)과 동작 요소(Java 파일)의 연결
+
+## 추가 자료 (내용)
+- Windows 단축키
+    - window + E : File Explorer 켜기
+- Internet Browser 단축키
+    - ctrl + T : 새 탭 켜기 (하나의 창 안에 탭 만들기)
+    - ctrl + N : 새 창 켜기
+    - ctrl + W : 탭 끄기
+    - alt + F4 : 창 끄기
+- Android Studio 단축키
+    - alt + 1 : 왼쪽에 파일 목록 볼 수 있게 하기 (Project Explorer)
+    - ctrl + R : 앱 실행하기
