@@ -11,3 +11,11 @@ This main markdown file has been written in English, but the study logs of each 
 - Install Virtual Box
 - Install genymotion
 - Launch "Hello World" Project
+
+# Lecture2
+- What is a variable?
+- GUI elements
+    - EditText
+    - TextView
+    - Button
+- How to make button response when cliked
