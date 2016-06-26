@@ -29,3 +29,8 @@
 - textView.setText(newNumber);
 
 ## 다음 수업 내용
+- Toast 띄우기
+- 조건문이란? (if문)
+- 유저에게 입력받기 (TextFields)
+- 참/거짓의 개념을 알아보기.
+- int를 String으로, String을 int로 할 수 있어야 한다.
