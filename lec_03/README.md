@@ -16,6 +16,8 @@
 		- ex. double currency = 1170.05;
 	- 문자열을 표현할 때는 String을 쓴다.
 		- ex. String password = "hello";
+- 실습 수업
+	- 실수를 입력하고 버튼을 누르면, 그 실수를 제곱한 값을 TextView에서 보여주도록 하는 앱을 만들었음.
 
 ## 과제
 
