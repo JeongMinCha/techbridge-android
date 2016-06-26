@@ -1,6 +1,9 @@
 # Lecture 3
 
 ## 수업 내용
+- GUI elements 다루기
+	- editText.getText().toString() => EditText에 입력한 것 가져오기
+	- textView.setText(); => TextView에 문자열 등록하기.
 - Button Handling (실습)
 	- onCreate 함수 안에 findViewById로 XML버튼과 Java버튼을 연결시킨다.
 	- 그 다음 줄에 button.setOnClickListener(this) 를 쓴다.
