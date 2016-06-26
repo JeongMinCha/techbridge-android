@@ -16,6 +16,9 @@
 		- ex. double currency = 1170.05;
 	- 문자열을 표현할 때는 String을 쓴다.
 		- ex. String password = "hello";
+- XML 디자인하기
+	- XML 코드를 짜는 방법도 있지만, 'Design'창에서 끌어당겨서 만들 수도 있다.
+	- Design창에서 EditText, TextView, Button을 만들 수 있어야 한다.
 - 실습 수업
 	- 실수를 입력하고 버튼을 누르면, 그 실수를 제곱한 값을 TextView에서 보여주도록 하는 앱을 만들었음.
 
