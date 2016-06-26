@@ -20,5 +20,9 @@
 	- 실수를 입력하고 버튼을 누르면, 그 실수를 제곱한 값을 TextView에서 보여주도록 하는 앱을 만들었음.
 
 ## 과제
+실수를 입력하고(EditText) 버튼을 누르면(Button) 그 실수에다가 +1한 값을 TextView에 보여주도록 하는 앱을 만든다.
+여기서, 반드시 새로운 실수 변수를 쓴 다음에 setText를 써야 한다.
+- double newNumber = Double.parseInt(editText.getText().toString()) + 1;
+- textView.setText(newNumber);
 
 ## 다음 수업 내용
