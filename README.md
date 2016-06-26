@@ -19,3 +19,8 @@ This main markdown file has been written in English, but the study logs of each 
     - TextView
     - Button
 - How to make button response when cliked
+
+# Lecture3
+- What is a variable?
+	- Primitive Variables
+- Button Handling
