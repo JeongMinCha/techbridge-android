@@ -24,3 +24,8 @@ This main markdown file has been written in English, but the study logs of each 
 - What is a variable?
 	- Primitive Variables
 - Button Handling
+
+# Lecture4
+- Toast Windows
+- Control Structure: If
+
