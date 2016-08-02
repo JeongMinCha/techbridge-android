@@ -29,3 +29,13 @@ This main markdown file has been written in English, but the study logs of each 
 - Toast Windows
 - Control Structure: If
 
+# Lecture5
+- What is Boolean?
+- Complex control statement
+- What is function?
+
+# Lecture6
+- rock-scissors-paper game!
+- dice project with images
+- Random class
+- Calculator project
