@@ -39,3 +39,9 @@ This main markdown file has been written in English, but the study logs of each 
 - dice project with images
 - Random class
 - Calculator project
+
+# Lecture7
+- XML LinearLayout, Weight
+- Class Variables
+- ImageView & Import Images
+- More desirable rock-scissors-paper game
