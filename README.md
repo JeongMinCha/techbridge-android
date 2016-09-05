@@ -2,6 +2,7 @@
 
 This is a repo which contains study logs of a lecture about android in education company called Techbridge. The lecture was held in Summer-Fall, 2016.  
 This main markdown file has been written in English, but the study logs of each lecture will be written in Korean.  
+[Curriculum Link](https://docs.google.com/document/d/1WaK57KcTnEvO7cKSNCAj21dIpyMr4--ZFQzi7Fu0fVM/mobilebasic?pli=1)
 
 # Table of Contents
 
